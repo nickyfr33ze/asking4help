@@ -29,3 +29,14 @@ My best processes and questions to ask:
     * Take out filler lanugage like "I just do not know what to do" and "I was hoping..." 
         * You would not be asking the question if you did not know what to do and actively looking for help...
     * 
+
+
+## Running the script 📜
+* The script must be ran with python3. 
+    * Anything earlier will not function as intended.
+
+```python
+python3 script.py
+```
+
+* It's that easy :)
