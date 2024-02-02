@@ -37,6 +37,7 @@ with open(file_path, "w") as file:
     file.write("What are the next steps?\n\n\n")
     file.write("## Acknowledgements\n")
     file.write("Any acknowledgements to include?\n\n\n")
+    file.close()
 
 time.sleep(2)
 print("Finished writing to file.")
