@@ -50,7 +50,7 @@ This is good communication practice. You're not an idiot.
 
 ```python
 python3 script.py
-#Please use Python3 over Python2.7
+# Please use Python3 over Python2.7
 ```
 
 * It's that easy :)
